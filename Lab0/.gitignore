@@ -1,7 +1,0 @@
-# Office temporary files
-~$*
-*.tmp
-
-# Python cache
-__pycache__/
-*.py[cod]

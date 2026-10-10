@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import sys
 
-# Cai dat cho phep doc tieng Viet tren terminal
+# Cai dat cho phep doc tieng Viet 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 

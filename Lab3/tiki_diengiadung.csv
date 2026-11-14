@@ -1,0 +1,241 @@
+﻿id,ten_san_pham,thuong_hieu,gia_ban,gia_goc,pham_tram_giam_gia,chi_so_danh_gia,so_luong_binh_luan,so_luong_ban,nhan_danh_gia,nhan_trang_thai,nhan_gia_ca
+1,Nồi áp suất Elmich PCE-1805 dung tích 2.5L - Hàng Chính Hãng,Elmich,1080000,2489000,57,4.7,241,1208,tot,ban_chay,tam_trung
+2,Nồi Điện Đa Năng Lock&Lock EJP116BLK (0.8 Lít) - Hàng Chính Hãng,LocknLock,605520,1044000,42,4.7,1400,6020,tot,ban_chay,tam_trung
+3,"Máy làm sữa hạt Elmich CBE-3904OL, công suất 800W, 7 chế độ nấu được thiết lập sẵn, lưỡi dao 3 tầng 8 cánh giúp xay nhuyễn - Hàng chính hãng",Elmich,1588000,3700000,57,4.8,106,674,xuat_sac,ban_chay,tam_trung
+4,Nồi cơm điện 1L Bear DFB-H30A3 (RC-4H30S) Hàng Chính Hãng,Bear,875000,1630000,46,5.0,2,7,xuat_sac,moi_ban,tam_trung
+5,Máy xay sinh tố cầm tay Elmich BLE 3889 (55W) - Hàng chính hãng,Elmich,518000,959000,46,4.1,16,164,trung_binh,tiem_nang,tam_trung
+6,"Máy ép chậm trái cây Elmich JEE 1855OL, công suất 240W, ống tiếp nguyên liệu rộng 83mm, độ ồn cực thấp 55 dB - Hàng chính hãng (New)",Elmich,2000000,4129000,52,4.6,127,655,tot,ban_chay,tam_trung
+7,Máy sấy tóc Elmich HDE 1823 - Hàng Chính Hãng,Elmich,395000,719000,45,4.8,46,432,xuat_sac,tiem_nang,gia_re
+8,Máy xay sinh tố cầm tay Elmich BLE9213 - Hàng chính hãng,Elmich,614000,1139000,46,4.3,8,33,trung_binh,moi_ban,tam_trung
+9,Nồi áp suất điện đa năng Elmich 6L PCE 1809OL - Hàng Chính Hãng,Elmich,1588000,3549000,55,4.7,21,120,tot,tiem_nang,tam_trung
+10,"Máy xay thịt, xay thực phẩm cho bé Elmich CHE-8665, 6 lưỡi inox 304 - An toàn tuyệt đối - Hàng chính hãng",Elmich,499000,1020000,51,5.0,25,155,xuat_sac,tiem_nang,gia_re
+11,"Máy duỗi tóc LocknLock ENA222BLU Hair straightener 220V, 50Hz, 42W - 5 mức nhiệt - Ion âm - Màu xanh dương - Hàng chính hãng",LocknLock,643220,1109000,42,5.0,5,35,xuat_sac,moi_ban,tam_trung
+12,Bàn là hơi nước cầm tay Elmich SIE9161 / SIE9163 / SIE9164 - Hàng chính hãng,Elmich,595000,979000,39,4.8,19,158,xuat_sac,tiem_nang,tam_trung
+13,Nồi lẩu mini đa năng 1.5l Elmich MPE-9121 - Hàng chính hãng,Elmich,474000,939000,50,5.0,8,96,xuat_sac,tiem_nang,gia_re
+14,Máy sấy tạo kiểu tóc LocknLock 220-240V - Màu tím xám - ENA526GRY - Hàng chính hãng,LocknLock,2702800,4598000,41,0.0,0,2,trung_binh,moi_ban,cao_cap
+15,Máy đánh sữa tạo bọt chạy pin Elmich MFE9137 - Hàng chính hãng,Elmich,186000,359000,48,4.6,9,56,tot,tiem_nang,gia_re
+16,Bếp điện từ Elmich ICE 3879 - Hàng Chính Hãng,Elmich,1160000,2199000,47,5.0,49,204,xuat_sac,tiem_nang,tam_trung
+17,Nồi cơm điện tử Elmich RCE-1789 (1.2 Lít) - Hàng chính hãng,Elmich,1294000,2369000,45,4.8,70,327,xuat_sac,tiem_nang,tam_trung
+18,"Bếp Điện Từ Đôi Locknlock Square Double Induction, 220240V, 50/60Hz, 1500W+1300W Màu Trắng - EJI326WHT - Hàng chính hãng",LocknLock,2380900,4105000,42,0.0,0,21,trung_binh,moi_ban,cao_cap
+19,"Máy ép chậm Elmich JEE-8758, công suất 240W, bảo toàn dưỡng chất, giữ trọn hương vị, ép kiệt bã tới 98% - Hàng Chính Hãng",Elmich,2906000,4769000,39,4.2,6,23,trung_binh,moi_ban,cao_cap
+20,Máy làm sữa hạt Elmich CBE 3902 (Mới) - Hàng Chính Hãng,Elmich,2118000,4159000,49,4.5,16,98,tot,tiem_nang,cao_cap
+21,Máy xay sinh tố cầm tay 400ml Elmich BLE9215 - Hàng chính hãng,Elmich,440000,919000,52,3.9,24,142,trung_binh,tiem_nang,gia_re
+22,Nồi điện đa năng Bear DRG-P16M2 (MC-4H16U) 1.6L ( 700W) - Hàng chính hãng,Bear,392000,899000,56,5.0,3,26,xuat_sac,moi_ban,gia_re
+23,Bình Đun Siêu Tốc 2 Lớp Lock&amp;Lock EJK738BLK (1.7L),LocknLock,544040,938000,42,4.7,2158,9688,tot,ban_chay,tam_trung
+24,Ấm siêu tốc inox 304 cao cấp đảm bảo an toàn 1.8L Daewoo DWK-S1805 đế xoay 360 độ - Hàng chính hãng BH 2 năm - Hàng chính hãng,Daewoo,210000,369000,43,5.0,2,28,xuat_sac,moi_ban,gia_re
+25,Máy lọc không khí Sharp FP-J60E-W (38W) - Hàng chính hãng,Sharp,6148000,7500000,18,4.7,252,850,tot,ban_chay,cao_cap
+26,"Nồi nấu chậm, nấu cháo, chưng yến 1L Elmich SCE-8524OL - Hàng Chính Hãng",Elmich,565000,1189000,52,5.0,101,917,xuat_sac,ban_chay,tam_trung
+27,Ấm đun nước siêu tốc Elmich Smartcook ICS-3859 (1.7 Lít) - Hàng chính hãng,Smartcook,341000,699000,51,4.8,338,1834,xuat_sac,ban_chay,gia_re
+28,"Nồi cơm điện Elmich 1.8L RCE9250, Công nghệ ủ nhiệt 3D - Hàng chính hãng",Elmich,869000,1599000,46,4.5,4,24,tot,moi_ban,tam_trung
+29,Ấm Điện Thủy Tinh Siêu Tốc Có Điều Chỉnh Nhiệt Độ Lock&Lock EJK341 (1.8L) - Hàng chính hãng,LocknLock,818960,1412000,42,4.7,2671,15154,tot,ban_chay,tam_trung
+30,Bình Đun Siêu Tốc 2 lớp Lock&Lock EJK738WHT (1.7 Lít) - Trắng - Hàng chính hãng,LocknLock,544040,938000,42,4.6,2557,15321,tot,ban_chay,tam_trung
+31,Máy Vắt Cam Lock&Lock EJJ231 (40W) - Hàng chính hãng,LocknLock,308560,532000,42,4.7,3899,28816,tot,ban_chay,gia_re
+32,Máy Vắt Cam Philips HR2738/00 25W - Hàng chính hãng,Philips,532000,659000,19,4.7,1156,13487,tot,ban_chay,tam_trung
+33,Ấm siêu tốc Elmich KEE 8457 - Hàng Chính Hãng,Elmich,639000,1059000,40,4.5,22,95,tot,tiem_nang,tam_trung
+34,Máy cạo râu khô và ướt Philips S1301/02 - Hàng Chính Hãng,Philips,745000,1155000,35,5.0,46,244,xuat_sac,tiem_nang,tam_trung
+35,Bàn ủi hơi nước cầm tay PHILIPS STH1000/10 (900W) - Hàng Chính Hãng,Philips,711600,999000,29,4.8,67,427,xuat_sac,tiem_nang,tam_trung
+36,Nồi cơm điện cao tần Locknlock IH pressure rice cooker EJR526GRY (1.8 Lít)- Hàng chính hãng,Lock&Lock,3981600,8295000,52,4.2,6,21,trung_binh,moi_ban,cao_cap
+37,"Ấm đun siêu tốc Locknlock Glass electric kettle EJK256BLK - 220-240V, 50-60Hz, 1850-2200W, Dung tích 1.8L- Màu đen - Hàng chính hãng",LocknLock,571880,986000,42,4.5,11,70,tot,tiem_nang,tam_trung
+38,Bình Đun Siêu Tốc Philips HD9316 (1.7L) - Hàng chính hãng,Philips,966000,1249000,23,4.6,131,832,tot,ban_chay,tam_trung
+39,Nồi Điện Đa Năng BlueStone MPB-7233 (1.2 Lít) - Hàng Chính Hãng,Bluestone,385000,599000,36,4.6,59,287,tot,tiem_nang,gia_re
+40,Bàn ủi hơi nước cầm tay Lock&Lock ENI223WHT 1600W - Hàng chính hãng,LocknLock,1008040,1738000,42,4.3,499,2751,trung_binh,ban_chay,tam_trung
+41,Máy xay ăn dặm Bear 0.3L CH-5H02D24 - Hàng Chính Hãng,Bear,362000,650000,44,0.0,0,13,trung_binh,moi_ban,gia_re
+42,"Ấm đun siêu tốc Daewoo 1L DWK-GN10LCD Hàng Chính Hãng chỉnh nhiều mức nhiệt, bảo hành 2 năm",Daewoo,862000,1390000,38,4.7,10,68,tot,tiem_nang,tam_trung
+43,Bình đun siêu tốc Toshiba 1.7 lít KT-17SH2NV - HÀNG CHÍNH HÃNG,Toshiba,468000,737500,37,4.7,395,1118,tot,ban_chay,gia_re
+44,Máy cạo râu du lịch Philips PQ206,Philips,338000,465000,27,4.6,29,195,tot,tiem_nang,gia_re
+45,"Máy Sấy Tóc Philips BHD350/10 - Công Suất 2100W, 3 Chế Độ Sấy, ION - Hàng Chính Hãng",Philips,691000,955000,28,4.8,109,513,xuat_sac,ban_chay,tam_trung
+46,Bàn Ủi Khô Philips HD1172/01 (1000W) - Hàng chính hãng,Philips,295000,439000,33,4.6,1467,20321,tot,ban_chay,gia_re
+47,Ly Xay Cầm Tay DAEWOO DWBL-3424 (340ml) Hàng Chính Hãng,Daewoo,384000,599000,36,5.0,2,38,xuat_sac,moi_ban,gia_re
+48,Bàn Ủi Hơi Nước Cầm Tay PHILIPS STH5030/80 - Hàng chính hãng,Philips,1375000,1890000,27,0.0,0,11,trung_binh,moi_ban,tam_trung
+49,Ấm đun siêu tốc Joyoung JEK-188 Hàng Chính Hãng,Joyoung,431000,590000,27,0.0,0,4,trung_binh,moi_ban,gia_re
+50,Hộp cơm điện Bear SB-HC12L - Hàng chính hãng,Bear,464000,800000,42,5.0,3,28,xuat_sac,moi_ban,gia_re
+51,Máy sấy tóc Philips BHC010/10 - Hàng Chính Hãng,Philips,320000,455000,30,4.8,373,1827,xuat_sac,ban_chay,gia_re
+52,Máy pha cà phê tự động Bear CF-B02V1 - Hàng chính hãng,Bear,1063000,1900000,44,4.5,18,133,tot,tiem_nang,tam_trung
+53,Nồi cơm điện Kangaroo 1 lít KGRC10M1 - Hàng chính hãng,Kangaroo,519000,890000,42,5.0,2,34,xuat_sac,moi_ban,tam_trung
+54,Ấm đun nước siêu tốc Elmich 1.8L KEE-8457 - Hàng chính hãng,Elmich,639000,1059000,40,4.8,6,60,xuat_sac,tiem_nang,tam_trung
+55,Máy sấy bát Elmich DDE-3907 - Hàng chính hãng,Elmich,2294000,4269000,46,5.0,7,29,xuat_sac,moi_ban,cao_cap
+56,"Ấm đun siêu tốc Daewoo 1.7L DWK-17DGT Hàng Chính Hãng điều khiển cảm ứng, chỉnh nhiều mức nhiệt, bảo hành 2 năm",Daewoo,562000,990000,43,5.0,18,55,xuat_sac,tiem_nang,tam_trung
+57,Ấm đun siêu tốc 1.2L giảm âm LocknLock Silent Electric Kettle - Màu trắng EJK216WHT - Hàng chính hãng,Lock&Lock,1169280,2016000,42,0.0,0,3,trung_binh,moi_ban,tam_trung
+58,Nồi điện đa năng LocknLock 2 trong 1 nướng lẩu tối ưu 4 chế độ nhiệt (4 Lít)- EJP544WHT - Hàng chính hãng,LocknLock,1501040,2588000,42,5.0,225,1199,xuat_sac,ban_chay,tam_trung
+59,"Máy xay thịt Elmich MCE8584B, dung tích 2L - Hàng chính hãng",Elmich,695000,1649000,58,5.0,3,35,xuat_sac,moi_ban,tam_trung
+60,Bàn ủi hơi nước Philips DST1040/30 2000W mặt đế chống dính - Hàng Chính Hãng,Philips,475000,730000,35,5.0,22,153,xuat_sac,tiem_nang,gia_re
+61,Máy Vắt Cam LocknLock Citrus Juicer EJJ244 40W 700ml - Xoay Ép Hai Chiều - Hàng chính hãng,LocknLock,315520,544000,42,5.0,2,18,xuat_sac,moi_ban,gia_re
+62,Máy xay ăn dặm 0.6L Bear QSJ-D02Q1. HÀNG CHÍNH HÃNG,Bear,452000,820000,45,4.0,4,47,trung_binh,moi_ban,gia_re
+63,Nồi cơm nắp gài Lock&Lock 1.5 lít EJR442IVY - Hàng chính hãng,LocknLock,895900,1432000,37,5.0,1,2,xuat_sac,moi_ban,tam_trung
+64,Nồi áp suất điện tử Elmich PCE-8571 - Hàng chính hãng,Elmich,1588000,3666000,57,4.0,13,67,trung_binh,tiem_nang,tam_trung
+65,Máy Xay Thịt 2 Lưỡi Kép BlueStone CHB-5145 (2 Lít) - Hàng chính hãng,Bluestone,532000,1299000,59,4.6,14,73,tot,tiem_nang,tam_trung
+66,Quạt Đứng Toshiba F-LSA10(K)VN (50W) - Hàng Chính Hãng,Toshiba,927000,1230000,25,4.7,654,3868,tot,ban_chay,tam_trung
+67,Máy xay cầm tay Bear SB-MX04K - Hàng Chính Hãng,Bear,520000,950000,45,3.3,7,21,trung_binh,moi_ban,tam_trung
+68,Nồi lẩu điện Elmich MPE-9177 - Hàng chính hãng,Elmich,900000,1779000,49,5.0,3,27,xuat_sac,moi_ban,tam_trung
+69,Máy xay tỏi ớt mini Elmich PBE9220 - Hàng chính hãng,Elmich,344000,639000,46,3.0,2,103,trung_binh,tiem_nang,gia_re
+70,Máy Xay Sinh Tố Toshiba MX-60T(H) (600W - 1.5 Lít) - Hàng Chính Hãng,Toshiba,614000,890000,31,4.6,533,1961,tot,ban_chay,tam_trung
+71,Lõi lọc nước số 1 Kangaroo Extra - Hàng chính hãng,Kangaroo,38000,70000,46,4.8,5,98,xuat_sac,tiem_nang,gia_re
+72,Máy tạo kiểu râu khô Philips BT3206/14 - Hàng chính hãng,Philips,450000,655000,31,5.0,2,10,xuat_sac,moi_ban,gia_re
+73,Máy xay sinh tố mini Elmich BLE9244 - Hàng chính hãng,Elmich,715000,1549000,54,4.5,2,7,tot,moi_ban,tam_trung
+74,Bếp Từ Đơn Tân Á Đại Thành Rossi RS-1020CE01 Kèm Nồi - Hàng Chính Hãng ,Tân Á Đại Thành,798000,1490000,46,5.0,1,5,xuat_sac,moi_ban,tam_trung
+75,Máy xay làm sữa hạt Elmich CBE-8974 - Hàng chính hãng,Elmich,2178000,3572000,39,0.0,0,6,trung_binh,moi_ban,cao_cap
+76,Nồi Chiên Không Dầu Điện Tử Lock&Lock EJF296BLK (7.2 Lít) - Kèm Chảo Nướng - Hàng Chính Hãng,LocknLock,2172938,5180000,58,4.7,2561,7675,tot,ban_chay,cao_cap
+77,"Nồi Nấu Cháo, Nấu chậm 1.6L Bear SB-NNC16 270W - Hàng chính hãng",Bear,735000,1290000,43,5.0,14,73,xuat_sac,tiem_nang,tam_trung
+78,Máy làm sữa hạt Bear 0.6L SB-SH06C 0.6L (600W) - Hàng chính hãng,Bear,961000,1890000,49,5.0,3,15,xuat_sac,moi_ban,tam_trung
+79,"Máy cạo râu khô và ướt Philips X5006,  bảo hành  2 năm, Hàng chính hãng",Philips,1776000,2655000,33,5.0,1,22,xuat_sac,moi_ban,tam_trung
+80,Máy sấy tóc Elmich HDE-1813 - Hàng Chính Hãng,Elmich,288000,499000,42,5.0,6,41,xuat_sac,moi_ban,gia_re
+81,"Bình Đun Siêu Tốc Panasonic NC-K101WRA (1,7 lít) - Hàng chính hãng",Panasonic,623000,778000,20,0.0,0,3,trung_binh,moi_ban,tam_trung
+82,"Nồi điện đa năng Locknlock Electric multi pot EJP436IVY 220V, 50Hz, 600W, 1.5L- Màu ngà - Hàng chính hãng",LocknLock,757480,1306000,42,4.8,146,974,xuat_sac,ban_chay,tam_trung
+83,Quạt Đứng Toshiba F- LSA20(W)VN (60W) - Trắng - Hàng chính hãng,Toshiba,1211000,1590000,24,4.7,711,3578,tot,ban_chay,tam_trung
+84,Quạt Đứng Philips CX1220/00 - Hàng Chính Hãng,Philips,1107000,1590000,30,5.0,4,33,xuat_sac,moi_ban,tam_trung
+85,Lò nướng chân không kết hợp chức năng hấp Lock&Lock EJF693GRY Steam Air Fryer Oven (12.5 Lít) - Hàng chính hãng,LocknLock,4269856,7990000,47,4.5,44,195,tot,tiem_nang,cao_cap
+86,Máy lọc không khí Sharp FP-J40E-W (23W) - Hàng chính hãng,Sharp,3119900,5268750,41,4.7,1211,4067,tot,ban_chay,cao_cap
+87,Máy làm sữa hạt Hafele HS-B151NW - HÀNG CHÍNH HÃNG - 535.43.485,HAFELE,1218000,2390000,49,5.0,1,10,xuat_sac,moi_ban,tam_trung
+88,"Máy Làm Sữa Hạt Đa Năng BlueStone BLB-6028 -1,75 Lít - (900-1000W) -11 Chương trình - Lưỡi 6 cánh - Bảo hành 24 tháng - Hàng chính hãng",Bluestone,1543000,2790000,45,5.0,6,12,xuat_sac,moi_ban,tam_trung
+89,Bàn Ủi Hơi Nước Philips DST5040/80 (2600W) - Hàng Chính Hãng,Philips,1439000,2350000,39,5.0,12,89,xuat_sac,tiem_nang,tam_trung
+90,Nồi chiên không dầu Philips 4.2 lít NA220/00  - Hàng chính hãng,Philips,1561000,2399000,35,5.0,3,30,xuat_sac,moi_ban,tam_trung
+91,Bếp Hồng Ngoại Sunhouse SHD6011 (2000W) - Đen- hàng chính hãng,Sunhouse,706000,890000,21,4.7,2726,13690,tot,ban_chay,tam_trung
+92,Máy sưởi gốm Elmich CHE-8645 - Hàng Chính Hãng,Elmich,736000,1549000,52,4.0,1,13,trung_binh,moi_ban,tam_trung
+93,Máy pha cà phê Bear SB-CF06A - Hàng chính hãng,Bear,475000,850000,44,4.8,47,228,xuat_sac,tiem_nang,gia_re
+94,Nồi hấp 12 lít Bear SB-NH12L - Hàng Chính Hãng,Bear,961000,1700000,43,5.0,10,43,xuat_sac,moi_ban,tam_trung
+95,"Ấm Đun Thủy Tinh 1L BEAR HLP-105W (YSH-J10D1) - 800W, Pha Trà, An Toàn Tiện Lợi - Hàng Chính Hãng",Bear,681000,1350000,50,5.0,1,3,xuat_sac,moi_ban,tam_trung
+96,Bếp từ đơn BlueStone ICB-6618 2000W - Hàng chính hãng,Bluestone,771000,1099000,30,5.0,2,12,xuat_sac,moi_ban,tam_trung
+97,Máy Pha Cà Phê Tự Động Bear KFJ-P02T7 (CFM-025RU) - Hàng Chính Hãng,Bear,935000,1860000,50,5.0,1,4,xuat_sac,moi_ban,tam_trung
+98,"Máy ép chậm Elmich JEE-8769, công suất 200W, tốc độ quay 65 vòng/phút, độ ồn thấp dưới 62db  - Hàng chính hãng",Elmich,1733000,3398000,49,4.8,5,29,xuat_sac,moi_ban,tam_trung
+99,Quạt Đứng Toshiba F-LSD10(H)VN (30W) - Xám - Hàng chính hãng,Toshiba,1717000,2290000,25,4.5,376,1406,tot,ban_chay,tam_trung
+100, Máy Ép Trái Cây Philips HR1863/20 (800W) - Hàng chính hãng,Philips,2585000,3759000,31,4.5,28,95,tot,tiem_nang,cao_cap
+101,"Máy duỗi tóc không dây, tấm phủ nhiệt ceramic LocknLock 15W - Màu tím - ENA224PUP - Hàng chính hãng",LocknLock,826460,1333000,38,0.0,0,2,trung_binh,moi_ban,tam_trung
+102,Bàn ủi hơi nước cầm tay PHILIPS DST3030/70 2400W - Hàng Chính Hãng,Philips,837000,1290000,35,4.7,26,151,tot,tiem_nang,tam_trung
+103,Bếp gas đôi dương kính Kangaroo KG526M - Hàng chính hãng,Kangaroo,772000,1383000,44,4.8,5,15,xuat_sac,moi_ban,tam_trung
+104,Máy Sấy Tóc Sunhouse SHD2306 - Đen,Sunhouse,179000,315000,43,4.6,75,802,tot,ban_chay,gia_re
+105,Máy Hút Bụi Philips FC9570/01 - Hàng chính hãng,Philips,2950000,3990000,26,5.0,1,9,xuat_sac,moi_ban,cao_cap
+106,Nồi Cơm Điện Cuckoo CR-1021 - 1.8L - Hàng Chính Hãng,Cuckoo,1399000,2310000,39,4.5,10,70,tot,tiem_nang,tam_trung
+107,Máy xay sinh tố cầm tay Philips HR2531/00 (650W) - Hàng chính hãng,Philips,684000,799000,14,4.8,280,998,xuat_sac,ban_chay,tam_trung
+108,Máy ép chậm Hafele HS-J81SG - Hàng Chính Hãng ( 535.43.394),HAFELE,1662000,2490000,33,0.0,0,0,trung_binh,moi_ban,tam_trung
+109,Nồi Cơm Điện Nắp Rời Sharp KSH-D28V (2.8L) - Màu Ngẫu nhiên - HÀNG CHÍNH HÃNG,Sharp,958000,1437500,33,4.6,26,163,tot,tiem_nang,tam_trung
+110,Máy xay sinh tố cầm tay Elmich 1000ml BLE9184 - Hàng chính hãng,Elmich,671000,1109000,39,4.8,4,20,xuat_sac,moi_ban,tam_trung
+111,Bàn Ủi Hơi Nước Philips STH3010/70 (1000W) - Hàng Chính Hãng,Philips,784917,1399000,44,4.7,199,1003,tot,ban_chay,tam_trung
+112,Máy Làm Sữa Chua Lock&Lock EJY110SLV (1000ml) - Hàng chính hãng,LocknLock,427460,737000,42,4.5,904,8229,tot,ban_chay,gia_re
+113,"Nồi Nấu Chậm 0,8L Bear SUBE001 Đa Năng Nấu Cháo, Chưng Yến Bản Quốc Tế - Hàng Chính Hãng",Bear,461000,790000,42,5.0,23,277,xuat_sac,tiem_nang,gia_re
+114,Máy xay thực phẩm Magic Eco AC-14 0.6L (300W) - Hàng chính hãng,Magic Eco,388000,790000,51,5.0,5,25,xuat_sac,moi_ban,gia_re
+115,Bếp điện từ Elmich ICE-1832,Elmich,1176000,1859000,37,5.0,7,31,xuat_sac,moi_ban,tam_trung
+116,"Lò vi sóng Toshiba MWP-MM20P(WH) - Dung tích 20 lít, 5 mức công suất, Kết hợp chống thấm 3 lớp, Kháng khuẩn bên trong lò - Hàng chính hãng",Toshiba,1273000,1890000,33,5.0,18,194,xuat_sac,tiem_nang,tam_trung
+117,Nồi Chiên Không Dầu Kết Hợp Chức Năng Hấp Lock&Lock EJF881IVY 7L,LocknLock,6490000,6490000,0,4.6,595,507,tot,ban_chay,cao_cap
+118,Máy xay sinh tố cầm tay LocknLock dung tích 475ml - Màu ngà - EJJ346IVY - Hàng chính hãng,LocknLock,1173660,1893000,38,5.0,2,8,xuat_sac,moi_ban,tam_trung
+119,Ấm Đun Siêu Tốc LocknLock EJK418SLV - Hàng Chính Hãng,LocknLock,574200,990000,42,4.5,73,453,tot,tiem_nang,tam_trung
+120,Nồi chiên không dầu 6L Bear QZG-H16R3 (AF-4H16K) 1600W Hàng Chính Hãng,Bear,1178000,2110000,44,0.0,0,4,trung_binh,moi_ban,tam_trung
+121,Máy sấy tạo kiểu tóc gấp gọn LocknLock 1300W - Màu xám - ENA626GRY - Hàng chính hãng,LocknLock,1798620,2901000,38,0.0,0,6,trung_binh,moi_ban,tam_trung
+122,Máy vắt cam Lock&Lock EJJ256BLK 85W - Hàng chính hãng,LocknLock,912920,1574000,42,4.8,684,2642,xuat_sac,ban_chay,tam_trung
+123,Máy Sấy Tóc LocknLock - Trắng ENA136WHT 2000-2200W - Hàng chính hãng,LocknLock,535340,923000,42,4.8,985,2403,xuat_sac,ban_chay,tam_trung
+124,Nồi chiên không dầu Philips 4.2 lít NA120/00 - Hàng chính hãng,Philips,1097000,1899000,42,4.7,7,41,tot,moi_ban,tam_trung
+125,Ấm pha trà đa năng 1.8L Elmich KEE-9147 - Hàng chính hãng,Elmich,900000,1779000,49,4.3,4,21,trung_binh,moi_ban,tam_trung
+126,Máy Hút Bụi Có Hộc Chứa Philips XB2023/01 (1800W) - Hàng Chính Hãng,Philips,1846500,2790000,34,5.0,41,147,xuat_sac,tiem_nang,tam_trung
+127,Máy Đánh Trứng Daewoo DWHM-318 (150W) - Hàng chính hãng,Daewoo,227000,439000,48,4.5,187,3445,tot,ban_chay,gia_re
+128,Bình đun siêu tốc Kangaroo KGWK15I2 - Hàng chính hãng,Kangaroo,167000,306250,45,5.0,8,72,xuat_sac,tiem_nang,gia_re
+129,Bình Đun Thủy Tinh PHILIPS HD9339/80 1.7lít - Hàng Chính Hãng,Philips,962800,1299000,26,5.0,29,127,xuat_sac,tiem_nang,tam_trung
+130,Máy Xay Sinh Tố PHILIPS HR2041/10 450W - Hàng Chính Hãng,Philips,575000,859000,33,4.5,90,421,tot,tiem_nang,tam_trung
+131,Bình đun siêu tốc Kangaroo KGWK18I2 - Hàng chính hãng,Kangaroo,191000,325000,41,3.0,2,35,trung_binh,moi_ban,gia_re
+132,Máy Làm Sữa Hạt Daewoo DWSM-1310 1L Hàng Chính Hãng,Daewoo,768000,1490000,48,3.7,3,29,trung_binh,moi_ban,tam_trung
+133,Máy sấy tóc Elmich HDE-1812 - Hàng Chính Hãng,Elmich,300000,509000,41,5.0,11,83,xuat_sac,tiem_nang,gia_re
+134,Lò vi sóng Toshiba MM-EM25PE(BM) 25 lít - Hàng Chính Hãng,Toshiba,2066000,2690000,23,5.0,8,80,xuat_sac,tiem_nang,cao_cap
+135,Máy sấy tóc Philips BHD510/00 - Hàng Chính Hãng,Philips,1120000,1555000,28,4.8,90,391,xuat_sac,tiem_nang,tam_trung
+136,Máy cạo râu khô và ướt Philips S1103/02 - Hàng Chính Hãng,Philips,589238,935000,37,4.8,117,811,xuat_sac,ban_chay,tam_trung
+137,Bình Đun Siêu Tốc Philips HD9350/90 (1.7L) - Hàng chính hãng ,Philips,700000,1149000,39,4.8,15,75,xuat_sac,tiem_nang,tam_trung
+138,Bàn ủi hơi nước đứng Philips STE1020/40  - Hàng chính hãng,Philips,1240000,1990000,38,5.0,1,19,xuat_sac,moi_ban,tam_trung
+139,Lõi lọc nước số 3 Kangaroo Extra - Hàng chính hãng,Kangaroo,39000,78000,50,0.0,0,54,trung_binh,tiem_nang,gia_re
+140,"Máy sấy tóc công nghệ ion Elmich HDE-8591, công suất 1900W, tay cầm gấp gọn tiện dụng, sấy ion với mật độ lên tới 1,2 triệu ion/m3 kèm lực gió khỏe - Hàng Chính Hãng",Elmich,699000,1430000,51,4.8,26,195,xuat_sac,tiem_nang,tam_trung
+141,"Máy xay cầm tay Elmich BLE-8666, công suất 1000W, thiết kế cầm tay dễ sử dụng, lưỡi dao bằng thép không gỉ siêu bền, đảm bảo an toàn tuyệt đối cho sức khỏe  - Hàng chính hãng",Elmich,1209000,2089000,42,4.5,2,25,tot,moi_ban,tam_trung
+142,"Bếp Đôi Điện Từ Hồng Ngoại Daewoo DWHB-3801C, mặt kính pha lê bóng 3800W, phù hợp mọi loại nồi - Hàng chính hãng",Daewoo,2339000,4700000,50,0.0,0,4,trung_binh,moi_ban,cao_cap
+143,Máy xay thực phẩm đa năng 3in1 Magic Eco AC-17 2L - Hàng chính hãng,Magic Eco,942000,1500000,37,5.0,3,29,xuat_sac,moi_ban,tam_trung
+144,Máy sấy tóc Elmich HDE-8590 - Hàng Chính Hãng,Elmich,435000,879000,51,5.0,3,18,xuat_sac,moi_ban,gia_re
+145,Bộ Cốc Lọc Đầu Nguồn Kangaroo KG01G3 – Hàng Chính Hãng,Kangaroo,791000,1590000,50,5.0,11,76,xuat_sac,tiem_nang,tam_trung
+146,"Nồi nấu cháo chậm, ninh hầm cách thuỷ BEAR SUBE002 1.6L (kèm 2 thố nhỏ 0.5L và lồng hấp) - Hàng chính hãng",Bear,769000,1350000,43,5.0,27,155,xuat_sac,tiem_nang,tam_trung
+147,"Nồi Điện Đa Năng Mini BEAR DRG-C12K1, Dung Tích 1.2 Lít Công Suất 600W - Hàng Chính Hãng",Bear,385000,690000,44,5.0,7,66,xuat_sac,tiem_nang,gia_re
+148,Bình Đun Siêu Tốc Philips HD9306 (1.5L) - Hàng chính hãng,Philips,540000,749000,28,4.5,148,1263,tot,ban_chay,tam_trung
+149,Bàn ủi hơi nước cầm tay Philips STH3000/20  - Hàng chính hãng,Philips,629000,1239000,49,0.0,0,24,trung_binh,moi_ban,tam_trung
+150,"Máy duỗi tóc không dây LocknLock 3 mức nhiệt, 30W - Màu xám - ENA225DGRY - Hàng chính hãng",LocknLock,2333680,3764000,38,0.0,0,0,trung_binh,moi_ban,cao_cap
+151,Máy Xay Sinh Tố BlueStone BLB-5339 (1.5 Lít) - Hàng chính hãng,Bluestone,1350000,1999000,32,4.5,78,187,tot,tiem_nang,tam_trung
+152,Quạt đứng Toshiba F- LSA20(H)VN (60W) - Xám - Hàng chính hãng,Toshiba,1210000,1590000,24,4.7,275,1617,tot,ban_chay,tam_trung
+153,Máy Hút Bụi Philips FC9350 (1800W) - Đen - Hàng chính hãng,Philips,2099000,3390000,38,4.5,37,235,tot,tiem_nang,cao_cap
+154,"Bàn Ủi Hơi Nước Trụ Đứng Philips STE3170 /80 Có Cầu Ủi StyleBoard nghiêng, Premium (2000W) - Hàng Chính Hãng",Philips,2490000,5259000,53,4.5,8,63,tot,tiem_nang,cao_cap
+155,"Nồi cơm điện LocknLock 220V, 50Hz, 700W, 1.8L – Màu ngà - EJR462IVY - Hàng chính hãng",LocknLock,1312540,2117000,38,0.0,0,1,trung_binh,moi_ban,tam_trung
+156,Nồi điện đa năng Bear 1.6L DRG-C16Z1 (MC-4H16G)  800W Màu Xanh Lá - Hàng Chính Hãng,Bear,382000,750000,49,0.0,0,7,trung_binh,moi_ban,gia_re
+157,Máy Đánh Trứng Philips HR3745/00 (450W) - Hàng Chính Hãng,Philips,1193000,1499000,20,5.0,2,23,xuat_sac,moi_ban,tam_trung
+158,Nồi áp suất điện tử đa năng Elmich 3L PCE-8573 - Hàng chính hãng,Elmich,1450000,2539000,43,0.0,0,3,trung_binh,moi_ban,tam_trung
+159,Bàn ủi hơi nước cầm tay PHILIPS DST3040/70 2600W - Hàng Chính Hãng,Philips,990000,1699000,42,5.0,57,298,xuat_sac,tiem_nang,tam_trung
+160,Máy xay thịt Elmich MCE-8586 dung tích 2L - Hàng chính hãng,Elmich,720000,1419000,49,4.8,5,26,xuat_sac,moi_ban,tam_trung
+161,"Máy sấy tóc Philips BHD308/10 - Sấy khô tóc mạnh mẽ - Chính hãng, bảo hành 2 năm",Philips,567000,835000,32,5.0,1,32,xuat_sac,moi_ban,tam_trung
+162,Máy làm sữa hạt Elmich CBE3902 mẫu mới 2023 điều khiển cảm ứng - Hàng chính hãng,Elmich,2118000,4159000,49,5.0,16,103,xuat_sac,tiem_nang,cao_cap
+163,Bàn là hơi nước Panasonic NI-M250TPRA - Hàng chính hãng,Panasonic,465999,610000,24,5.0,1,13,xuat_sac,moi_ban,gia_re
+164,Lò vi sóng Sharp R-2030E- CH 20 lít - 5 mức công suất 800W - Hàng Chính Hãng,Sharp,1440000,1990000,28,4.3,4,7,trung_binh,moi_ban,tam_trung
+165,Bếp Gas Hồng Ngoại Đôi Sunhouse SHB004MT - Hàng chính hãng,Sunhouse,639000,1565000,59,4.5,498,4436,tot,ban_chay,tam_trung
+166,Ấm siêu tốc Daewoo DEK-MF180 (2.0L) - Hàng chính hãng,Daewoo,311000,620000,50,4.6,14,60,tot,tiem_nang,gia_re
+167,Bàn ủi hơi nước Philips DST2030/90 2000W - Hàng chính hãng,Philips,697000,1090000,36,0.0,0,2,trung_binh,moi_ban,tam_trung
+168,Nồi cơm điện cao tần Daewoo DWRC-G411IH 1.8L lòng nồi cực dày - Hàng chính hãng,Daewoo,2015000,2990000,33,3.3,3,14,trung_binh,moi_ban,cao_cap
+169,Nồi Cơm Điện Tử Kangaroo KG596 (1.5 Lít) - Vàng đồng - Hàng chính hãng,Kangaroo,1199000,2300000,48,4.5,26,129,tot,tiem_nang,tam_trung
+170,"Bếp Từ Đơn Daewoo DWI-1505B, 8 chế độ cài sẵn 1500w - Hàng chính hãng",Daewoo,470000,799000,41,5.0,2,34,xuat_sac,moi_ban,gia_re
+171,Nồi cơm điện nắp gài Sharp 1.8 lít KS-183TJV-CH - Hàng chính hãng,Sharp,709000,785000,10,3.7,3,13,trung_binh,moi_ban,tam_trung
+172,Bếp điện từ Smartcook ICS-3873 - Hàng chính hãng,Elmich,929000,1290000,28,5.0,3,8,xuat_sac,moi_ban,tam_trung
+173,Nồi cơm điện Kangaroo 1.5 lít KGRC15M1 - Hàng chính hãng,Kangaroo,674000,1090000,38,1.0,1,7,trung_binh,moi_ban,tam_trung
+174,Bàn là hơi nước đứng Elmich GSE9120 - Hàng chính hãng,Elmich,1871000,4159000,55,0.0,0,5,trung_binh,moi_ban,tam_trung
+175,Bàn ủi hơi nước Bear IR-4H15H 1500W - Hàng chính hãng,Bear,701000,1280000,45,5.0,3,19,xuat_sac,moi_ban,tam_trung
+176,"Máy sấy tóc Philips BHD720/10 -Sấy tóc nhanh khô _ Ion nước, ion khoáng, ion gấp 8 lần_ Hàng chính hãng",Philips,2222000,2995000,26,0.0,0,14,trung_binh,moi_ban,cao_cap
+177,Nồi lẩu đa năng Kangaroo KGEH50N2B - Hàng chính hãng,Kangaroo,635000,1350000,53,4.3,3,17,trung_binh,moi_ban,tam_trung
+178,Bàn ủi hơi nước đứng Philips STE1030/20  - Hàng chính hãng,Philips,1326000,2390000,45,0.0,0,4,trung_binh,moi_ban,tam_trung
+179,Máy sấy tóc Elmich HDE-1819 - Hàng Chính Hãng,Elmich,424000,785000,46,0.0,0,10,trung_binh,moi_ban,gia_re
+180,Bàn Ủi Hơi Nước Cầm Tay PHILIPS STH5020/20 - Hàng chính hãng,Philips,1124000,1590000,29,5.0,1,9,xuat_sac,moi_ban,tam_trung
+181,Bình đun siêu tốc Sharp EKJ-17EVPS - RD dung tích 1.7 lít - Hàng chính hãng - Đỏ ,Sharp,452000,680000,34,0.0,0,4,trung_binh,moi_ban,gia_re
+182,Ấm đun đa năng Rhinox RXHX 2 Lít Hàng Chính Hãng,Rhinox,960000,1490000,36,0.0,0,3,trung_binh,moi_ban,tam_trung
+183,Máy cạo râu khô và ướt Magic B-63- Hàng chính hãng,Magic,331000,550000,40,4.5,10,68,tot,tiem_nang,gia_re
+184,Nồi áp suất điện đa năng 2 ngăn Elmich 3.5L PCE-8576 - Hàng chính hãng,Elmich,2100000,3500000,40,5.0,1,4,xuat_sac,moi_ban,cao_cap
+185,Ấm đun nước Kuchenzimmer 1.8 L-013703 Hàng Chính Hãng,Kuchenzimmer,557000,711000,22,5.0,1,4,xuat_sac,moi_ban,tam_trung
+186,Máy xay cầm tay Braun MQ7045X - Hàng Chính Hãng,Braun,3119000,4199000,26,0.0,0,3,trung_binh,moi_ban,cao_cap
+187,"Bếp hồng ngoại mini Locknlock Mini infrared cooker EJI136IVY - Phù hợp tất cả loại nồi có đường kính 14cm - Mặt bếp bằng kính - Tự động tắt - 220V, 50Hz, 1300W - Hàng chính hãng",LocknLock,1242360,2142000,42,4.7,12,56,tot,tiem_nang,tam_trung
+188,Nồi chiên không dầu Philips 6.2 lít NA332/00 - Hàng chính hãng,Philips,3930000,3930000,0,5.0,1,4,xuat_sac,moi_ban,cao_cap
+189,Máy sấy tóc Panasonic EH-NE85-K645 - Hàng Chính Hãng,Panasonic,1224000,1550000,21,0.0,0,2,trung_binh,moi_ban,tam_trung
+190,Máy làm sữa hạt Bear 1L SB-SH09Q 1L (800W)- Hàng chính hãng,Bear,1097000,1950000,44,4.5,2,25,tot,moi_ban,tam_trung
+191,Máy Xay Sinh Tố Kuchenzimmer 700 ml-014779 - Hàng Chính Hãng,Kuchenzimmer,1089000,1390000,22,5.0,1,3,xuat_sac,moi_ban,tam_trung
+192,Máy sấy tóc SUNHOUSE SHD2313 (1000W) - Hàng chính hãng,Sunhouse,220000,340000,35,4.7,26,187,tot,tiem_nang,gia_re
+193,Máy Vắt Cam Braun CJ 3050 - Trắng - Hàng Chính Hãng,Braun,712000,999000,29,4.5,7,64,tot,tiem_nang,tam_trung
+194,Máy Xay Sinh Tố Toshiba BL-70PR1NV (700W - 1.5 Lít) - Hàng Chính Hãng,Toshiba,936000,1390000,33,4.7,186,425,tot,tiem_nang,tam_trung
+195,Máy xay thực phẩm đa năng 3in1 Magic Eco AC-16 (2.0 Lít) - Hàng chính hãng,Magic Eco,832000,1390000,40,4.8,4,35,xuat_sac,moi_ban,tam_trung
+196,Ấm đun siêu tốc Smartcook 1.5L KES-3857 - Hàng chính hãng,Smartcook,482000,690000,30,5.0,3,13,xuat_sac,moi_ban,gia_re
+197,Nồi cơm điện tử Toshiba RC-18NTFV(W) (1.8 Lít) - HÀNG CHÍNH HÃNG,Toshiba,2402000,3050000,21,4.7,818,2875,tot,ban_chay,cao_cap
+198," Máy ép chậm Locknlock EJJ421IVY Slow juicer - Dung tích 0.8L, 200W, 220-240V, 50Hz - Hàng chính hãng",LocknLock,2328700,4015000,42,5.0,10,44,xuat_sac,moi_ban,cao_cap
+199,Máy làm sữa hạt Elmich CBE-8650 - Hàng chính hãng,Elmich,1353000,2978000,55,4.1,10,77,trung_binh,tiem_nang,tam_trung
+200,"Máy ép chậm Elmich JEE-8759, công suất 240W mạnh mẽ ép kiệt bã, giữ lại chất dinh dưỡng và hương vị trong trái cây,độ ồn dưới 58dB, ép kiệt tới 98% - Hàng chính hãng",Elmich,2258000,3929000,43,4.0,1,13,trung_binh,moi_ban,cao_cap
+201,Máy Vắt Cam Lock&Lock EJJ241 (40W - 1.2 Lít) - Hàng chính hãng,LocknLock,383960,662000,42,4.3,548,5774,trung_binh,ban_chay,gia_re
+202,"Bàn ủi hơi nước LocknLock 2 trong 1 steam iron 220-240V, 50-60Hz, 1100-1300W - ENI262WHT - Hàng chính hãng",LocknLock,1143760,1972000,42,0.0,0,2,trung_binh,moi_ban,tam_trung
+203,Nồi Cơm Điện Sharp KS-N181ETV SL - 1.8L (Trắng) - Hàng chính hãng,Sharp,1085000,1562500,31,5.0,3,24,xuat_sac,moi_ban,tam_trung
+204,Máy Vắt Cam Braun CJ 3000 - Trắng - Hàng Chính Hãng,Braun,471000,699000,33,5.0,25,171,xuat_sac,tiem_nang,gia_re
+205,Máy xay thực phẩm Magic Eco AC-13 200W - Hàng chính hãng,Magic Eco,353000,690000,49,4.5,2,14,tot,moi_ban,gia_re
+206,Máy vắt cam tự động Bear CZJ-A04B1 (JU-4H04X) - Hàng Chính Hãng,Bear,267000,480000,44,0.0,0,16,trung_binh,moi_ban,gia_re
+207,Bếp hồng ngoại đơn Kangaroo KG20IFT1 - Hàng chính hãng,Kangaroo,950000,1750000,46,0.0,0,10,trung_binh,moi_ban,tam_trung
+208,Bếp Gas Dương Kính Kangaroo KG516M - Hàng chính hãng,Kangaroo,848000,1270000,33,5.0,1,3,xuat_sac,moi_ban,tam_trung
+209,Máy Hút Ẩm Sharp DW-D20A-W - Trắng - Hàng chính hãng,Sharp,6897000,9420000,27,4.6,23,111,tot,tiem_nang,cao_cap
+210,Máy Làm Bánh 3 Trong 1 Tiross TS513 (750W) - Hàng Chính Hãng,Tiross,633000,790000,20,4.6,691,4966,tot,ban_chay,tam_trung
+211,Máy Xay Sinh Tố Cầm Tay mini BlueStone BLB-5303 - Dung tích 300ml - Công suất 35W - Lưỡi dao thép không gỉ - Xay thực phẩm mềm - Bảo hàng 2 năm - Hàng chính hãng,Bluestone,386000,999000,61,0.0,0,12,trung_binh,moi_ban,gia_re
+212,Máy lọc không khí Elmich APE9323 - Hàng chính hãng,Elmich,2032000,3359000,40,4.0,2,7,trung_binh,moi_ban,cao_cap
+213,Máy Ép trái Chậm Mini Smartcook JES-3897OL Hàng Chính Hãng,Smartcook,1561000,2290000,32,5.0,9,24,xuat_sac,moi_ban,tam_trung
+214,Bình Đun Siêu Tốc Magic Eco AC-40 1.7L (2200W) - Hàng chính hãng,Magic Eco,467000,870000,46,0.0,0,3,trung_binh,moi_ban,gia_re
+215,Nồi chiên không dầu kết hợp áp suất đa năng Elmich AFE-1808 - Hàng chính hãng,Elmich,2478000,4618000,46,5.0,7,44,xuat_sac,moi_ban,cao_cap
+216,Máy làm sữa chua Elmich YME0298 - Hàng chính hãng,Elmich,591000,1009000,41,5.0,3,13,xuat_sac,moi_ban,tam_trung
+217,Máy xay sinh tố Elmich BLE8764 - Hàng chính hãng,Elmich,708000,1269000,44,0.0,0,4,trung_binh,moi_ban,tam_trung
+218,Nồi Hấp Bear Nồi Hấp Điện 3 tầng Nồi Lẩu Điện Kèm Hấp Đa Năng Cảm Ứng Hấp Lẩu Hầm Healthy Tiết Kiệm Điện DZG-P20W7 - Hàng chính hãng,Bear,1379000,2450000,44,0.0,0,20,trung_binh,moi_ban,tam_trung
+219,Tủ sấy quần áo Elmich CDE-8641 - Hàng Chính Hãng,Elmich,1406000,2398000,41,5.0,3,33,xuat_sac,moi_ban,tam_trung
+220,Vỉ Nướng Điện Lock&Lock EJG221 (1300W) - Hàng Chính Hãng,LocknLock,1150140,1983000,42,4.6,1319,6786,tot,ban_chay,tam_trung
+221,Máy sưởi gốm Elmich CHE 3937 - Hàng Chính Hãng,Elmich,1624000,3219000,50,5.0,5,31,xuat_sac,moi_ban,tam_trung
+222,"Máy làm sữa hạt Bear 1,2L SB-SH12H (150W- 800W) - Hàng chính hãng",Bear,1210000,2200000,45,4.3,4,17,trung_binh,moi_ban,tam_trung
+223,Nồi cơm điện cao cấp Elmich 1.8L RCE-9132 - Hàng chính hãng,Elmich,960000,1679000,43,5.0,2,23,xuat_sac,moi_ban,tam_trung
+224,Máy Ép Chậm Kuvings NS-321CBM2 (Đỏ) - Hàng Chính Hãng,Kuvings,8155000,15490000,47,4.2,12,78,trung_binh,tiem_nang,cao_cap
+225,Máy lọc không khí Elmich APE9324 - Hàng chính hãng,Elmich,3401000,6159000,45,0.0,0,2,trung_binh,moi_ban,cao_cap
+226,Nồi cơm điện Elmich RCE-9258 dung tích 1.2L- Hàng chính hãng,Elmich,830000,1439000,42,5.0,1,8,xuat_sac,moi_ban,tam_trung
+227,Bếp từ đôi cao cấp Elmich ICE-8852 - Hàng chính hãng,Elmich,6502000,14166000,54,0.0,0,0,trung_binh,moi_ban,cao_cap
+228,Máy ép tốc độ chậm miệng rộng thế hệ mới Magic Eco AC-139 - Hàng chính hãng,Magic Eco,2049000,3990000,49,4.0,1,6,trung_binh,moi_ban,cao_cap
+229,Bàn Ủi Hơi Nước PANASONIC NI-GHD021WRA 1300W – Cầm Tay Nhỏ Gọn – Hàng Chính Hãng,Panasonic,985000,1170000,16,5.0,1,1,xuat_sac,moi_ban,tam_trung
+230,Máy làm sữa hạt OIDIRE 1.2L ODI04A Công suất xay 300W - Công suất nấu 600W - Hàng chính hãng,Oidire,1430000,2300000,38,0.0,0,4,trung_binh,moi_ban,tam_trung
+231,Nồi cơm điện tử Kangaroo 1.5 lít KG15RCE2 - Hàng chính hãng,Kangaroo,767000,2050000,63,5.0,2,16,xuat_sac,moi_ban,tam_trung
+232,Máy sấy tóc Elmich Ion HDE-1822 - Hàng Chính Hãng,Elmich,824000,1409000,42,4.5,14,49,tot,moi_ban,tam_trung
+233,Nồi cơm điện Kuchenzimmer 1.8 L - 013598 - Hàng Chính Hãng,Kuchenzimmer,1128000,1440000,22,0.0,0,0,trung_binh,moi_ban,tam_trung
+234,Máy làm sữa hạt Bear PBJ- F01G1 (HB-5H01K52) Màu Kem -  Hàng Chính Hãng,Bear,2150000,2150000,0,5.0,1,5,xuat_sac,moi_ban,cao_cap
+235,Lõi lọc nước số 2 Kangaroo Extra - Hàng chính hãng,Kangaroo,68000,110000,38,5.0,1,30,xuat_sac,moi_ban,gia_re
+236,Máy ép trái cây Panasonic MJ-CS101WRA - Hàng chính hãng,Panasonic,1254999,1814000,31,4.0,1,9,trung_binh,moi_ban,tam_trung
+237,NỒI CƠM ĐIỆN 1.8L SUNHOUSE SHD8611R (700W) - Hàng chính hãng,Sunhouse,472000,1100000,57,5.0,3,18,xuat_sac,moi_ban,gia_re
+238,Máy xay thịt 2L Bear SB-MA02L 2L (300W) - Hàng chính hãng,Bear,441000,850000,48,5.0,1,9,xuat_sac,moi_ban,gia_re
+239,Lò vi sóng Sharp R-2040EH-BK 20 Lít - Hàng Chính Hãng,Sharp,1413000,1890000,25,5.0,1,4,xuat_sac,moi_ban,tam_trung
+240,Nồi cơm điện tử Panasonic SR-DK104WRA/SR-DK184WRA - Hàng Chính Hãng,Panasonic,2014000,2750000,27,0.0,0,1,trung_binh,moi_ban,cao_cap
